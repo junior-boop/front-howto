@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="30px" height="29px" viewBox="0 0 30 29" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="nouveau" transform="translate(0.5 0.5)">
+    <path d="M0 14C0 6.26801 6.49187 0 14.5 0C22.5081 0 29 6.26801 29 14C29 21.732 22.5081 28 14.5 28C6.49187 28 0 21.732 0 14Z" id="Ellipse" fill="#000000" fill-rule="evenodd" stroke="none" />
+    <g id="Group" transform="translate(6 6.4301147)">
+      <path d="M8.45576 1.58014L10.2254 5.16592L14.1826 5.74092L11.3192 8.53207L11.9952 12.4732L8.45577 10.6125L4.91639 12.4732L5.59234 8.53209L2.72891 5.74095L6.68606 5.16593L8.45576 1.58014Z" id="Star" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M11.7826 3.31873L14.093 0" id="Line" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" />
+      <path d="M5.17119 3.24213L2.8186 0" id="Line-3" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" />
+      <path d="M13.3866 9.18024L17.0824 10.4203" id="Line-4" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" />
+      <path d="M3.25208 9.40985L0 10.4203" id="Line-5" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" />
+      <path d="M8.4489 13.051L8.41309 16.5699" id="Line-6" fill="none" fill-rule="evenodd" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" />
+    </g>
+  </g>
+</svg>
